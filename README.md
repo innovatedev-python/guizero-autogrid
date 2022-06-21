@@ -4,11 +4,11 @@
 
 ### pip
 
-    pip install git+https://github.com/innovatedev-python/guizero-autogrid.git@v0.1.0#egg=guizero_autogrid
+    pip install git+https://github.com/innovatedev-python/guizero-autogrid.git@v0.1.1
 
 ### poetry
 
-    poetry add git+https://github.com/innovatedev-python/guizero-autogrid.git@v0.1.0
+    poetry add git+https://github.com/innovatedev-python/guizero-autogrid.git@v0.1.1
 
 ## Usage
 
