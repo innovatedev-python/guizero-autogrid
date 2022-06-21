@@ -36,8 +36,10 @@ Example (compare with [box examples from guizero](https://lawsie.github.io/guize
 ## Contributing
 
     poetry shell
+    poetry install
+    
     # code quality checks
     poe qa
 
     # format to code style
-    poe formats
+    poe format
