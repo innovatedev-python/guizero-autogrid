@@ -14,7 +14,7 @@
 
 Use the same as a [guizero `layout="grid"`](https://lawsie.github.io/guizero/box/), but you may leave off the `grid=[##, ##]` when using the `guizero_autogrid` widgets' arguments and it will layout the grid automatically. Can set a `spacing=[spacing_x, spacing_y]` value on the parent grid component to automatically apply padding to all grid items. Also has the ability to use `grid=NextRow` to place the widget in the first column in the next row. Limited support for span values... it may work, many combinations do not work yet.
 
-Example (compare with [box examples grom guizero](https://lawsie.github.io/guizero/box/#examples)):
+Example (compare with [box examples from guizero](https://lawsie.github.io/guizero/box/#examples)):
 
 ![example auto grid](docs/example-auto-grid.png)
 
