@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "guizero-autogrid"
-version = "0.1.0"
+version = "0.1.1"
 description = "Autogrid mixin for guizero library"
 authors = ["Innovatedev <guizero.autogrid@innovate.dev>"]
 license = "BSD-3-Clause"
